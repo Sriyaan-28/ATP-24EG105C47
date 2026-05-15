@@ -23,8 +23,8 @@ https://github.com/Sriyaan-28/ATP-24EG105C47/tree/main/WEEK-5
 
 # Week 6:
 Github link: https://github.com/Sriyaan28/employee-app
-Deployment link: https://employee-app-ebon-ten.vercel.app/
+| Deployment link: https://employee-app-ebon-ten.vercel.app/
 
 # Week 7:
 Github link: https://github.com/Sriyaan28/blog-app
-Deployment link: https://blog-app-theta-ruby.vercel.app/
+| Deployment link: https://blog-app-theta-ruby.vercel.app/
